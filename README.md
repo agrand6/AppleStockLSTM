@@ -21,6 +21,11 @@ The missing dates are Saturdays, Sundays, or Public Holidays
 
 ![](Screenshots/Image2.png)
 
+## Model
+- Scaling the data [0-1]
+- Change the train data into a 3 dimnestions - samples, time steps, and features.
+- Two layers. One dense one output
+- Built on adam optimizer -  update network weights iterative based in training data
 
 ## Model Prediction
 
